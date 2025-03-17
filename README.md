@@ -9,7 +9,6 @@ Hi there 👋, **Senior Full-Stack Engineer** with over 9 years of experience in
 
 --- 🚀 ---
 
-## Let's Build Something Amazing
-With my vast experience in developing robust, high-performance applications and expertise in modern web technologies, I am always looking for new challenges and opportunities to help organizations achieve their goals. Let’s create something incredible together!
+I am always looking for new challenges and opportunities to help organizations achieve their goals. Let’s create something incredible together!
 
 Feel free to reach out via [email](mailto:maykel.oropeza@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maykeloropeza/).
