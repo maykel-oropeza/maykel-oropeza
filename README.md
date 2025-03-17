@@ -1,6 +1,4 @@
-# Maykel Oropeza - Senior FullStack Engineer
-
-I am a **Senior Full-Stack Engineer** with over 9 years of experience in developing high-performance, scalable, and efficient web applications. Specializing in **JavaScript, TypeScript**, and **Node.js**, I help organizations tackle complex challenges, using Agile methodologies and modern technologies to deliver innovative solutions.
+**Senior Full-Stack Engineer** with over 9 years of experience in developing high-performance, scalable, and efficient web applications. Specializing in **JavaScript, TypeScript**, and **Node.js**, I help organizations tackle complex challenges, using Agile methodologies and modern technologies to deliver innovative solutions.
 
 ## Core Skills & Technologies
 - **Languages**: JavaScript, TypeScript, Python
