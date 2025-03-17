@@ -1,16 +1,18 @@
-## Hi there 👋
+# Maykel Oropeza - Senior FullStack Engineer
 
-<!--
-**maykel-oropeza/maykel-oropeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Full-Stack Engineer** with over 9 years of experience in developing high-performance, scalable, and efficient web applications. Specializing in **JavaScript, TypeScript**, and **Node.js**, I help organizations tackle complex challenges, using Agile methodologies and modern technologies to deliver innovative solutions.
 
-Here are some ideas to get you started:
+## Core Skills & Technologies
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React, Angular, Vue, Next.js, React Native, Redux, NgRx, RxJs, HTML5, CSS3, Tailwind, Material UI, Bootstrap
+- **Backend**: Node.js, NestJS, Express, REST APIs, WebSockets, PostgreSQL, MongoDB, Redis
+- **DevOps & Cloud**: AWS, Azure, Firebase, Docker, CI/CD, Terraform
+- **Testing**: Jest, Cypress, Playwright, Testing Library
+- **Other Tools**: Git, Webpack, Yarn, Npm, Jira, Confluence, D3.js, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Let's Build Something Amazing
+With my vast experience in developing robust, high-performance applications and expertise in modern web technologies, I am always looking for new challenges and opportunities to help organizations achieve their goals. Let’s create something incredible together!
+
+Feel free to reach out via [email](mailto:maykel.oropeza@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maykeloropeza/).
