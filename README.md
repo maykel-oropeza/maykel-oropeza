@@ -1,4 +1,4 @@
-Hi there 👋, **Senior Full-Stack Engineer** with over 9 years of experience in developing high-performance, scalable, and efficient web applications. Specializing in **JavaScript, TypeScript**, and **Node.js**, I help organizations tackle complex challenges, using Agile methodologies and modern technologies to deliver innovative solutions.
+Hi there 👋, **Senior Software Engineer** with over 9 years of experience in developing high-performance, scalable, and efficient web applications. Specializing in **JavaScript, TypeScript**, and **Node.js**, I help organizations tackle complex challenges, using Agile methodologies and modern technologies to deliver innovative solutions.
 
 - **Languages**: JavaScript, TypeScript, Python
 - **Frontend**: React, Angular, Vue, Next.js, React Native, Redux, NgRx, RxJs, HTML5, CSS3, Tailwind, Material UI, Mantine, Bootstrap
