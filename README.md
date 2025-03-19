@@ -11,4 +11,4 @@ Hi there 👋, **Senior Software Engineer** with over 9 years of experience in d
 
 I am always looking for new challenges and opportunities to help organizations achieve their goals. Let’s create something incredible together!
 
-Feel free to reach out via [email](mailto:maykel.oropeza@gmail.com) (maykel.oropeza@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maykeloropeza/).
+Feel free to reach out via [email](mailto:maykel.oropeza@gmail.com) maykel.oropeza@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/maykeloropeza/).
