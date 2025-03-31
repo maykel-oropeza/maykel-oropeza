@@ -1,11 +1,12 @@
 Hi there 👋, **Senior Software Engineer** with over 9 years of experience in developing high-performance, scalable, and efficient web applications. Specializing in **JavaScript, TypeScript**, and **Node.js**, I help organizations tackle complex challenges, using Agile methodologies and modern technologies to deliver innovative solutions.
 
 - **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: React, Angular, Vue, Next.js, React Native, Redux, NgRx, RxJs, HTML5, CSS3, Tailwind, Material UI, Mantine, Bootstrap
-- **Backend**: Node.js, NestJS, Express, REST APIs, WebSockets, PostgreSQL, MongoDB, Redis
+- **Frontend**: React, Angular, Vue, Next.js, React Native, Redux, NgRx, RxJs, HTML5, CSS3, Tailwind, Material UI, Mantine
+- **Backend**: Node.js, NestJS, Express, Flask, Django, REST APIs, WebSockets, PostgreSQL, MongoDB, Redis
 - **DevOps & Cloud**: AWS, Azure, Firebase, Docker, CI/CD, Terraform
-- **Testing**: Jest, Cypress, Playwright, Testing Library
-- **Other Tools**: Git, Webpack, Yarn, Npm, Jira, Confluence, D3.js, Tableau
+- **Testing**: Vitest, Mocha, Jest, Testing Library, Cypress, Playwright
+- **Data Visualization**: D3.js, Tableau, Chart.js, Google Charts.
+- **Other Tools**: Git, Yarn, Npm, pnpm, Vite, Nx, Webpack, Expo, Rollup, Sonar, Husky, Eslint, Jira, Confluence.
 
 --- 🚀 ---
 
